@@ -1,3 +1,3 @@
 ﻿'This is demo automated script for PBZ
-SystemUtil.Run "iexplorer.exe" , "https://m365test.pbz.hr/sirius-web-pbz/logon"
+SystemUtil.Run "iexplore.exe" , "https://m365test.pbz.hr/sirius-web-pbz/logon"
 
